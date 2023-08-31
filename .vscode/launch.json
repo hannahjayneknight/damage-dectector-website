@@ -9,7 +9,7 @@
             "type": "firefox",
             "request": "launch",
             "reAttach": true,
-            "file": "${workspaceFolder}/indexV2.html"
+            "file": "${workspaceFolder}/heroes/index.html"
         },
         {
             "name": "Launch localhost",
